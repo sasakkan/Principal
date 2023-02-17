@@ -1,0 +1,52 @@
+* {
+  text-decoration: none;
+  margin: 0px;
+  padding: 0px;
+}
+
+.maincontainer {
+  text-align: center;
+  width: 70%;
+  border: 2px solid #a4e4e9;
+  margin: 0px auto 25px auto;
+  box-shadow: 1px 1px 7px;
+}
+.all-boxes {
+  display: inline-block;
+  width: 180px;
+  border: 2px solid rgb(211, 138, 211);
+  margin: 15px 15px;
+  padding: 0px 8px 17px 8px;
+}
+
+span > aside {
+  display: inline-block;
+}
+
+a > h2 {
+  margin: 15px;
+}
+
+#skillbox {
+  text-align: center;
+  display: block;
+  background-color: aqua;
+  width: 70%;
+  margin: 0px auto 0px auto;
+}
+
+.skill-boxes {
+  display: inline-block;
+  width: 30%;
+  border: 2px solid #a4e4e9;
+  margin: 15px 15px;
+  padding: 20px;
+}
+
+article {
+  margin: 0px auto 0px auto;
+}
+
+footer {
+  background-color: rgb(235, 235, 235);
+}
